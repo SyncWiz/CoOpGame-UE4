@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\UdemyCourse\\CoopGame\\CoopGame\\Source\\CoopGame\\CoopGame.Build.cs",
+		"C:\\Projects\\UdemyCourse\\CoopGame\\CoopGame\\Source\\CoopGame.Target.cs",
+		"C:\\Projects\\UdemyCourse\\CoopGame\\CoopGame\\Source\\CoopGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
