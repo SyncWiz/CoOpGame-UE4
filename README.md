@@ -4,7 +4,7 @@ Coop Game to showcase my UE4 skills, including:
 - Advanced AI using behavior trees, EQS & Env Queries
 - Networked gameplay (authority handling and replication)
 - Basic UI (Crosshair & health indicators)
-- Power-Ups (Health & speed)
+- Power-Ups (Health recovery & movement speed boost)
 - Enemy wave and spawning system
 
 # Game Demo
