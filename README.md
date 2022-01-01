@@ -8,7 +8,7 @@ Coop Game to showcase my UE4 skills, including:
 - Enemy wave and spawning system
 
 # Game Demo
-The project has a demo map where waves of enemies spawned, and players have to kill them. There are also a few spawn points where the player can pick up power-ups. The game is fully networked, so players can join a host and play remotely.
+The project has a demo map where waves of enemies spawn, and players have to kill them. There are also a few spawn points where the player can pick up power-ups. The game is fully networked, so players can join a host and play remotely.
 
 # UE4 Version
 Last UE4 engine version tested: 4.26.2
