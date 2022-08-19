@@ -1,5 +1,5 @@
-# Co-Op Project using UE4
-Co-Op Project to showcase my UE4 skills, including:
+# Multiplayer Co-Op Project using UE4
+Multiplayer Co-Op Project to showcase my UE4 skills, including:
 - Basic AI using C++
 - Advanced AI using behavior trees, EQS & Env Queries
 - Networked gameplay (authority handling and replication)
